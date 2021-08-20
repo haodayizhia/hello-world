@@ -1,2 +1,2 @@
 # hello-world
-an example
+:star:a repository created for experiencing github.
